@@ -1,0 +1,6 @@
+﻿Total number of users registered: 1
+admin has 0 tasks assigned to them
+The percentage of tasks assigned to admin is: 0.0
+The percent tasks that have been completed: 0.0
+The percent tasks that must still be completed: 100.0
+The percent tasks that is overdue: 0.0
